@@ -11,3 +11,4 @@ test/e2e/dist
 /export
 .vscode/
 .idea/
+npm-debug.log
